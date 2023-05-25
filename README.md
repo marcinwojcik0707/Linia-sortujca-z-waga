@@ -1,0 +1,1 @@
+# Linia-sortujca-z-waga
