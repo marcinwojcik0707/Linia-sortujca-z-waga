@@ -1,6 +1,6 @@
 # Linia-sortujca-z-waga
-Program PLC napisany w srodowisku Siemensa - Tia Portal v15.1. Jezyk programowania - tesktowy SCL. Symulacja linii w programie Factory IO.
-- Sterowanie linii sortujacej paczki o trzech roznych wagach.
-- Modul wagowy z wykorzystaniem algorytmu sredniej kroczcej.
-- Obsluga bledow i alarmow.
-- Zliczanie iloci posortowanych paczek.
+Program PLC napisany w środowisku Siemensa - Tia Portal v15.1. Język programowania - tesktowy SCL. Symulacja linii w programie Factory IO.
+- Sterowanie linii sortującej paczki o trzech różnych wagach.
+- Moduł wagowy z wykorzystaniem algorytmu sredniej kroczącej.
+- Obsługa błędow i alarmów.
+- Zliczanie ilości posortowanych paczek.
